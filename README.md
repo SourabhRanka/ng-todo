@@ -2,19 +2,19 @@
 Todo List in AngularJS
 
 Steps
+1) Create index.html
+2) Create app.js
+3) Create container to hold todo app
+4) add the texbox to recieve items
+5) add the add button to push the values in the list
+6) add the placeholder to display list
+7) add the functionality of add button
+8) show the added item in the list
 
-Create index.html
-Create app.js
-Create container to hold todo app
-add the texbox to recieve items
-add the add button to push the values in the list
-add the placeholder to display list
-add the functionality of add button
-show the added item in the list
+
 Additional features
-
-Reset the list
-delete any item in the list
-add item on pressing the enter
-checkbox to mark it complete
-validate not to add empty item
+1) Reset the list
+2) delete any item in the list
+3) add item on pressing the enter
+4) checkbox to mark it complete 
+5) validate not to add empty item
